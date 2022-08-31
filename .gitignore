@@ -1,0 +1,13 @@
+System Volume Information/*
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.idea
+*.iml
+
+/EFI/APPLE
+/EFI/Microsoft
+**/._*
+**/.DS_Store
